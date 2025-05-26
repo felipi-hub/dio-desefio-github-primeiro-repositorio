@@ -1,0 +1,31 @@
+✅ 1. O que o comando dir no Windows e ls no Linux fazem?
+Resposta correta:
+🔹 Retorna uma lista com o conteúdo contido naquele diretório específico.
+
+✅ 2. Qual o comando usado para inicializar o Git dentro de uma pasta?
+Resposta correta:
+🔹 git init.
+
+✅ 3. O que o comando git init faz?
+Resposta correta:
+🔹 Inicializa um repositório git na pasta em questão.
+
+✅ 4. Quando você tenta empurrar (push) o código para o GitHub e o seu commit não representa o estado mais atual do repositório, o Git irá:
+Resposta correta:
+🔹 Pedir para você fazer um pull e depois um push.
+
+✅ 5. O que acontece quando você gera commits no seu repositório local com e-mail e nickname diferentes dos utilizados no GitHub?
+Resposta correta:
+🔹 Os commits aparecerão com e-mail e nickname diferentes no GitHub.
+
+✅ 6. O que o Git é?
+Resposta correta:
+🔹 Um sistema de versionamento de código distribuído.
+
+✅ 7. O que é um sistema distribuído?
+Resposta correta:
+🔹 Um sistema que possui múltiplas cópias de si mesmo em diferentes locais.
+
+✅ 8. Qual a diferença do seu ambiente de desenvolvimento e do servidor?
+Resposta correta:
+🔹 Seu ambiente de desenvolvimento é local e o servidor, remoto.
